@@ -4,7 +4,7 @@ import (
 	"encoding/base64"
 	"testing"
 
-	"github.com/gotips/log"
+	"github.com/arstd/log"
 )
 
 func TestEncryptMsg(t *testing.T) {

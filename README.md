@@ -15,7 +15,7 @@ go get -u -v github.com/arstd/weixin
 
 ```bash
 cd $GOPATH/src/github.com/arstd/weixin
-# go get ./... # 依赖于 gotips/log
+# go get ./... # 依赖于 arstd/log
 go test ./... 执行所有单元测试
 go run examples/*.go 启动一个 Server
 ```

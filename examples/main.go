@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/arstd/weixin"
-	"github.com/gotips/log"
+	"github.com/arstd/log"
 )
 
 func main() {
